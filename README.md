@@ -66,6 +66,7 @@ MYSQL_DATABASE_URL=<MySQL連線字串>
 7. 啟動程式後，API即開始進行監聽。
 
 ## 提供的API列表
+[Postman API](https://documenter.getpostman.com/view/29115683/2s9Y5YT3Mb)
 
 | 項次 |                 路由                 |                 功能                 |
 |:---- |:------------------------------------|:------------------------------------ |
@@ -117,7 +118,7 @@ MYSQL_DATABASE_URL=<MySQL連線字串>
 
 ## 作者
 
-* [**江祐敏**](https://github.com/AlanChiangg)
+* [**AlanChiangg**](https://github.com/AlanChiangg)
 * [**Eric Huang**](https://github.com/erikku54) 
 
 前端專案合作： [**葉明荃**](https://github.com/u88872625)、[**YunJong**](https://github.com/Yunj0ng)
